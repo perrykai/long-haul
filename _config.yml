@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Micro, Yet Mighty
+description: My semi-professional blog
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://perrykai.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: perrykai
+   twitter: KDaza16
+   facebook: kaitlyn.perry.12
+   email: perrykai@msu.edu
 
 google_analytics: "UA-58263416-1"

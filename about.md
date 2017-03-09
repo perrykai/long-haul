@@ -1,25 +1,13 @@
 ---
 layout: default
-title: About Long Haul
+title: About Me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<h1 class="pageTitle">About Me</h1>
+	<img src="{{ '/assets/img/aboutmeimage.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">Hi! I'm Kaitlyn Daza.</p>
+  <p>I'm a PhD candidate at Michigan State University studying microRNA regulation in pig skeletal muscle. I'm interested in pursuing a career in Science Communication when I finish my degree.</p>
+  <p> I'm originally from Jenison, MI (near Grand Rapids), and I earned my bachelors degree in Animal Science from MSU in 2013. More recently, I got married to my amazing husband Gregory (in the pic above, to the left of the photo-bombing llama), and we're now living in Lansing, MI while I complete my PhD.</p> 
+  <p> This blog will primarily consist of my ramblings on topics I find interesting, including genetics, bioinformatics, and agriculture. I also want to use this as a way of delving into the world of science communication, and get practice writing more creatively than my peer-reviewed publications allow. So, thank you for stopping by, and I hope you enjoy my personal thoughts! </p>
 </div>
