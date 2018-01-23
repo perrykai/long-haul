@@ -12,7 +12,7 @@ I look at one little part of this process: [microRNAs](https://en.wikipedia.org/
 
 Okay, now back to PAG!
 
-I had previously applied for the Neal A. Jorgenson Genome Travel Award through PAG, which provides funding that greatly offsets the cost of flying across the country and attending a scientific conference. I was selected as a recipient and as such was given the opportunity to present a five-minute 'pitch' of my work at the Swine Workshop, to encourage everyone to visit my poster later in the week. It was exciting and nerve-racking to stand up in front of my scientific peers and try to summarize four years of work in five minutes! However, it went really well, and I got great feedback from other researchers in the room. I was glad that the Swine Workshop was so early on in the meeting program, so I get the part I was most nervous about over with quickly. Big thanks go to my lab-mate Ryan for helping keep me calm and listening to me practice in our hotel room the night before! 
+I had previously applied for the Neal A. Jorgenson Genome Travel Award through PAG, which provides funding that greatly offsets the cost of flying across the country and attending a scientific conference. I was selected as a recipient and as such was given the opportunity to present a five-minute 'pitch' of my work at the Swine Workshop, to encourage everyone to visit my poster later in the week. It was exciting and nerve-racking to stand up in front of my scientific peers and try to summarize four years of work in five minutes! However, it went really well, and I got great feedback from other researchers in the room. I was glad that the Swine Workshop was so early on in the meeting program, so I got the part I was most nervous about over with quickly. Big thanks go to my lab-mate Ryan for helping keep me calm and listening to me practice in our hotel room the night before! 
 
 <figure>
 <img src="{{ '/assets/img/Daza_Jorgenson_PAG.jpg' | prepend: site.baserul }}" alt="" style="width: 500px;">
@@ -40,7 +40,7 @@ Ryan was also invited to report his recent results surveying DNA methylation dur
 <figcaption>Ryan giving his talk, looking all sorts of Presidential.</figcaption>
 </figure>
 
-He did amazingly well, and got many handshakes and compliments from our colleagues. It was great so feel like our lab dominated our presentations!
+He did amazingly well, and got many handshakes and compliments from our colleagues. It was great to feel like our lab dominated our presentations!
 
 Another session we attended focused on teaching genetics and bioinformatics to non-science majors or younger audiences, which I personally know to be a difficult task. Often with learning genetics comes learning statistics, which intimidates a majority of students. The talks at PAG overviewed different programs designed to introduce non-science majors to DNA extraction, DNA or RNA sequencing, bioinformatics softwares, and data analysis techniques, and shared their successes and lessons learned in the process. I'm personally passionate about introducing students to genetics before their first formal course on the subject, so it was thrilling to see the efforts these educators went through to bring an area I'm so passionate about to others.
 
